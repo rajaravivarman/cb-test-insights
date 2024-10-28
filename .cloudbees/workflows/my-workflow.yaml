@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: cloudbees-io/checkout@v1
         name: Check out a Git repository
-      - uses: docker://golang:1.22.3-alpine3.17
+      - uses: docker://golang:1.23.2-alpine3.19
         name: build code
         shell: sh
         run: |
