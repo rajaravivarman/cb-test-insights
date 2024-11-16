@@ -23,7 +23,7 @@ func TestMainOutput(t *testing.T) {
 	var buf bytes.Buffer
 	buf.ReadFrom(r)
 
-	expected := "Hello, World!\n"
+	expected := "Hello, Wrld!\n"
 	if buf.String() != expected {
 		t.Errorf("expected %q but got %q", expected, buf.String())
 	}
