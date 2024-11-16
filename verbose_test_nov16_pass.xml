@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1">
+	<testsuite name="cb-test-insights" tests="1" failures="0" errors="0" id="0" hostname="ranantharaj-MacBook-Pro" time="0.822" timestamp="2024-11-16T08:46:44+05:30">
+		<testcase name="TestMainOutput" classname="cb-test-insights" time="0.000">
+			<system-out><![CDATA[    main_test.go:28: The results are as expected: "Hello, World!\n"]]></system-out>
+		</testcase>
+	</testsuite>
+</testsuites>
