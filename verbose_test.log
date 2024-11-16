@@ -1,0 +1,4 @@
+=== RUN   TestMainOutput
+--- PASS: TestMainOutput (0.00s)
+PASS
+ok  	cb-test-insights	1.017s

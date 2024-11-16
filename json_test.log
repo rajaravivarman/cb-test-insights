@@ -1,0 +1,8 @@
+{"Time":"2024-10-28T13:53:16.2812+05:30","Action":"start","Package":"cb-test-insights"}
+{"Time":"2024-10-28T13:53:17.248309+05:30","Action":"run","Package":"cb-test-insights","Test":"TestMainOutput"}
+{"Time":"2024-10-28T13:53:17.248417+05:30","Action":"output","Package":"cb-test-insights","Test":"TestMainOutput","Output":"=== RUN   TestMainOutput\n"}
+{"Time":"2024-10-28T13:53:17.248602+05:30","Action":"output","Package":"cb-test-insights","Test":"TestMainOutput","Output":"--- PASS: TestMainOutput (0.00s)\n"}
+{"Time":"2024-10-28T13:53:17.248624+05:30","Action":"pass","Package":"cb-test-insights","Test":"TestMainOutput","Elapsed":0}
+{"Time":"2024-10-28T13:53:17.248636+05:30","Action":"output","Package":"cb-test-insights","Output":"PASS\n"}
+{"Time":"2024-10-28T13:53:17.249018+05:30","Action":"output","Package":"cb-test-insights","Output":"ok  \tcb-test-insights\t0.968s\n"}
+{"Time":"2024-10-28T13:53:17.249087+05:30","Action":"pass","Package":"cb-test-insights","Elapsed":0.968}

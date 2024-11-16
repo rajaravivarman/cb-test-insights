@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1">
+	<testsuite name="cb-test-insights" tests="1" failures="0" errors="0" id="0" hostname="ranantharaj-MacBook-Pro" time="1.017" timestamp="2024-10-28T13:54:32+05:30">
+		<testcase name="TestMainOutput" classname="cb-test-insights" time="0.000"></testcase>
+	</testsuite>
+</testsuites>
