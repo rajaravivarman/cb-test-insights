@@ -29,4 +29,4 @@ jobs:
         uses: cloudbees-io/publish-test-results@v1
         with:
           test-type: Go
-          folder-name: verbose_test_nov16.xml
+          folder-name: ${{ cloudbees.workspace }}/verbose_test_nov16.xml
