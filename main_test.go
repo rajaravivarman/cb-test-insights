@@ -19,7 +19,7 @@ func TestMainOutputSuccess(t *testing.T) {
 	w.Close()
 	os.Stdout = out
 
-	// Read the captured output
+	// Read the captured outputs
 	var buf bytes.Buffer
 	buf.ReadFrom(r)
 
