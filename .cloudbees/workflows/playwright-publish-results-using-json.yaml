@@ -28,5 +28,5 @@ jobs:
       - name: Publish test results
         uses: cloudbees-io/publish-test-results@v1
         with:
-          test-type: Go
-          folder-name: ${{ cloudbees.workspace }}/test.json
+          test-type: playwright
+          folder-name: ${{ cloudbees.workspace }}/results.json
